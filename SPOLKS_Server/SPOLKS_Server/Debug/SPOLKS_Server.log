@@ -1,0 +1,14 @@
+﻿  Source.cpp
+d:\projects\c++\spolks_server\spolks_server\source.cpp(218): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note:  см. объявление "localtime"
+d:\projects\c++\spolks_server\spolks_server\source.cpp(219): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note:  см. объявление "asctime"
+d:\projects\c++\spolks_server\spolks_server\source.cpp(394): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\projects\c++\spolks_server\spolks_server\source.cpp(522): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\projects\c++\spolks_server\spolks_server\source.cpp(534): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\spolks_server\spolks_server\source.cpp(571): warning C4800: std::size_t: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\projects\c++\spolks_server\spolks_server\source.cpp(76): warning C4715: init: значение возвращается не при всех путях выполнения
+d:\projects\c++\spolks_server\spolks_server\source.cpp(214): warning C4715: handleRequest: значение возвращается не при всех путях выполнения
+d:\projects\c++\spolks_server\spolks_server\source.cpp(311): warning C4715: handleDownload: значение возвращается не при всех путях выполнения
+  SPOLKS_Server.vcxproj -> D:\Projects\C++\SPOLKS_Server\Debug\SPOLKS_Server.exe
+  SPOLKS_Server.vcxproj -> D:\Projects\C++\SPOLKS_Server\Debug\SPOLKS_Server.pdb (Full PDB)
